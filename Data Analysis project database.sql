@@ -1,0 +1,6 @@
+SHOW DATABASES;
+CREATE DATABASE mydatabase;
+USE mydatabase;
+
+SHOW TABLES;
+SELECT * FROM mytable;
